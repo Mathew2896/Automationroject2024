@@ -1,4 +1,0 @@
-test.2 file
-test2.txt file is added
-This is test2.txt file which needs to be  modified
-
